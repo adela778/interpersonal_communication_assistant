@@ -12,15 +12,18 @@
 
 **问题：**
 
-![1](https://github.com/adela778/interpersonal_communication_assistant/assets/154968495/276b7773-9dd5-481b-8765-fa08b581fe80)
+![1](https://github.com/adela778/interpersonal_communication_assistant/assets/154968495/641e1ab1-e04b-4d70-8dcc-ff75c9f370f8)
+
 
 **原始chatglm的回答：**
 
-![3](https://github.com/adela778/interpersonal_communication_assistant/assets/154968495/776924ea-0b8b-43c3-8ba4-088610c73214)
+![2](https://github.com/adela778/interpersonal_communication_assistant/assets/154968495/c6d63d04-756f-4311-a882-e981b78be542)
+
 
 **本项目的回答：**
 
-![2](https://github.com/adela778/interpersonal_communication_assistant/assets/154968495/b0ce0f52-4438-41d6-af54-4f06ad8a5a34)
+![3](https://github.com/adela778/interpersonal_communication_assistant/assets/154968495/c80efdb0-0263-4f05-bb88-a649b75e19fe)
+
 
 ### case2
 
@@ -78,3 +81,5 @@ B：“老板，我最近回顾了一下我的工作成绩，发现在过去的�
 
 ### （2） 运行应用程序
 `streamlit run streamlit_app.py`
+
+到智谱AI开放平台申请API keys，填入页面左上角的框框后按回车键，即可开始问答。
