@@ -82,4 +82,4 @@ B：“老板，我最近回顾了一下我的工作成绩，发现在过去的�
 ### （2） 运行应用程序
 `streamlit run streamlit_app.py`
 
-到智谱AI开放平台申请API keys，填入页面左上角的框框后按回车键，即可开始问答。
+到智谱AI开放平台（https://open.bigmodel.cn/）申请API keys，填入页面左上角的框框后按回车键，即可开始问答。
