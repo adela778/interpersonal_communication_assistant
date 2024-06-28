@@ -37,4 +37,4 @@
 ### （2） 运行应用程序
 `streamlit run streamlit_app.py`
 
-到[智谱AI开放平台](https://open.bigmodel.cn/)申请API keys，填入页面左上角的框框后按回车键，即可开始问答。
+请到[智谱AI开放平台](https://open.bigmodel.cn/)申请API keys，填入页面左上角的框框后按回车键，即可开始问答。
