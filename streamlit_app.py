@@ -23,7 +23,7 @@ def get_vectordb():
 
 # 不使用检索问答的普通模式
 def generate_response(input_text, zhipuai_api_key):
-    llm = ZhipuAILLM(model="glm-4", temperature=0.7, zhipuai_api_key=zhipuai_api_key)
+    llm = ZhipuAILLM(model="chatglm_std", temperature=0.7, zhipuai_api_key=zhipuai_api_key)
     output = llm.invoke(input_text)
     output_parser = StrOutputParser()
     output = output_parser.invoke(output)
